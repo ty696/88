@@ -1,0 +1,347 @@
+================================================================
+        帝辇网站完整图片清单 - 所有图片路径说明
+================================================================
+
+【项目根目录】
+C:\Users\Administrator\dinian\
+
+
+================================================================
+【一、Logo图片（必需）- 1张】
+================================================================
+
+文件名：logo.png 或 logo.jpg
+完整路径：C:\Users\Administrator\dinian\images\logo.png
+说明：导航栏左侧显示的Logo（长条型图片，带文字）
+使用位置：所有页面的导航栏 + 首页底部公司信息区域
+
+
+================================================================
+【二、首页轮播图背景（可选）- 3张】
+================================================================
+
+说明：首页轮播图目前使用的是CSS渐变背景色，如果需要使用真实图片，请添加：
+路径：C:\Users\Administrator\dinian\images\
+
+1. carousel-1.jpg  - 轮播图1背景
+   完整路径：C:\Users\Administrator\dinian\images\carousel-1.jpg
+
+2. carousel-2.jpg  - 轮播图2背景
+   完整路径：C:\Users\Administrator\dinian\images\carousel-2.jpg
+
+3. carousel-3.jpg  - 轮播图3背景
+   完整路径：C:\Users\Administrator\dinian\images\carousel-3.jpg
+
+
+================================================================
+【三、首页产品展示图片（必需）- 8张】
+================================================================
+
+路径：C:\Users\Administrator\dinian\images\products\
+
+1. amino.jpg       - 帝辇氨基酸精华洗护
+   完整路径：C:\Users\Administrator\dinian\images\products\amino.jpg
+
+2. herbal.jpg      - 帝辇中药草本植物养发
+   完整路径：C:\Users\Administrator\dinian\images\products\herbal.jpg
+
+3. styling.jpg     - 帝辇造型系列
+   完整路径：C:\Users\Administrator\dinian\images\products\styling.jpg
+
+4. tools.jpg       - 帝辇专业美发工具
+   完整路径：C:\Users\Administrator\dinian\images\products\tools.jpg
+
+5. antiseptic.jpg  - 帝辇皮肤抑菌膏
+   完整路径：C:\Users\Administrator\dinian\images\products\antiseptic.jpg
+
+6. perm.jpg        - 帝辇烫发系列
+   完整路径：C:\Users\Administrator\dinian\images\products\perm.jpg
+
+7. dye.jpg         - 帝辇染发系列
+   完整路径：C:\Users\Administrator\dinian\images\products\dye.jpg
+
+8. custom.jpg      - 私人定制高端品牌
+   完整路径：C:\Users\Administrator\dinian\images\products\custom.jpg
+
+
+================================================================
+【四、产品详情页图片（必需）- 每个系列4张，共32张】
+================================================================
+
+路径：C:\Users\Administrator\dinian\images\products\
+
+【4.1 氨基酸系列（4张）】
+1. amino-1.jpg     - 氨基酸去屑
+   完整路径：C:\Users\Administrator\dinian\images\products\amino-1.jpg
+
+2. amino-2.jpg     - 滋润修护
+   完整路径：C:\Users\Administrator\dinian\images\products\amino-2.jpg
+
+3. amino-3.jpg     - 氨基酸护发素
+   完整路径：C:\Users\Administrator\dinian\images\products\amino-3.jpg
+
+4. amino-4.jpg     - 去屑控油
+   完整路径：C:\Users\Administrator\dinian\images\products\amino-4.jpg
+
+
+【4.2 中药草本植物系列（4张）】
+5. herbal-1.jpg    - 植物去屑
+   完整路径：C:\Users\Administrator\dinian\images\products\herbal-1.jpg
+
+6. herbal-2.jpg    - 去屑控油
+   完整路径：C:\Users\Administrator\dinian\images\products\herbal-2.jpg
+
+7. herbal-3.jpg    - 防断健发
+   完整路径：C:\Users\Administrator\dinian\images\products\herbal-3.jpg
+
+8. herbal-4.jpg    - 防脱
+   完整路径：C:\Users\Administrator\dinian\images\products\herbal-4.jpg
+
+
+【4.3 造型系列（4张）】
+9. oil.jpg         - 造型精油
+   完整路径：C:\Users\Administrator\dinian\images\products\oil.jpg
+
+10. elastic.jpg     - 弹力素
+    完整路径：C:\Users\Administrator\dinian\images\products\elastic.jpg
+
+11. mask.jpg        - 隐形发膜
+    完整路径：C:\Users\Administrator\dinian\images\products\mask.jpg
+
+12. styling-4.jpg   - 干胶
+    完整路径：C:\Users\Administrator\dinian\images\products\styling-4.jpg
+
+
+【4.4 烫发系列（4张）】
+13. perm-1.jpg      - 专业烫发药水
+    完整路径：C:\Users\Administrator\dinian\images\products\perm-1.jpg
+
+14. perm-2.jpg      - 烫发定型剂
+    完整路径：C:\Users\Administrator\dinian\images\products\perm-2.jpg
+
+15. perm-3.jpg      - 烫发护理液
+    完整路径：C:\Users\Administrator\dinian\images\products\perm-3.jpg
+
+16. perm-4.jpg      - 烫后修复精华
+    完整路径：C:\Users\Administrator\dinian\images\products\perm-4.jpg
+
+
+【4.5 专业美发工具系列（4张）- 4种型号】
+17. tools-1.jpg     - 专业型号1
+    完整路径：C:\Users\Administrator\dinian\images\products\tools-1.jpg
+
+18. tools-2.jpg     - 专业型号2
+    完整路径：C:\Users\Administrator\dinian\images\products\tools-2.jpg
+
+19. tools-3.jpg     - 专业型号3
+    完整路径：C:\Users\Administrator\dinian\images\products\tools-3.jpg
+
+20. tools-4.jpg     - 专业型号4
+    完整路径：C:\Users\Administrator\dinian\images\products\tools-4.jpg
+
+
+【4.6 皮肤抑菌膏系列（4张）】
+21. antiseptic-1.jpg - 皮肤抑菌膏
+    完整路径：C:\Users\Administrator\dinian\images\products\antiseptic-1.jpg
+
+22. antiseptic-2.jpg - 抑菌护理膏
+    完整路径：C:\Users\Administrator\dinian\images\products\antiseptic-2.jpg
+
+23. antiseptic-3.jpg - 舒缓抑菌膏
+    完整路径：C:\Users\Administrator\dinian\images\products\antiseptic-3.jpg
+
+24. antiseptic-4.jpg - 专业抑菌膏
+    完整路径：C:\Users\Administrator\dinian\images\products\antiseptic-4.jpg
+
+
+【4.7 染发系列（4张）】
+25. dye-1.jpg       - 专业染发剂
+    完整路径：C:\Users\Administrator\dinian\images\products\dye-1.jpg
+
+26. dye-2.jpg       - 染发护色剂
+    完整路径：C:\Users\Administrator\dinian\images\products\dye-2.jpg
+
+27. dye-3.jpg       - 染后护理
+    完整路径：C:\Users\Administrator\dinian\images\products\dye-3.jpg
+
+28. dye-4.jpg       - 染发精华
+    完整路径：C:\Users\Administrator\dinian\images\products\dye-4.jpg
+
+
+【4.8 私人定制高端品牌（4张）】
+29. custom-1.jpg    - 专属定制服务
+    完整路径：C:\Users\Administrator\dinian\images\products\custom-1.jpg
+
+30. custom-2.jpg    - 高端定制配方
+    完整路径：C:\Users\Administrator\dinian\images\products\custom-2.jpg
+
+31. custom-3.jpg    - 个人专属系列
+    完整路径：C:\Users\Administrator\dinian\images\products\custom-3.jpg
+
+32. custom-4.jpg    - 尊享定制方案
+    完整路径：C:\Users\Administrator\dinian\images\products\custom-4.jpg
+
+
+================================================================
+【五、新闻动态页面图片（可选）- 3张】
+================================================================
+
+路径：C:\Users\Administrator\dinian\images\news\
+
+1. news-1.jpg      - 新闻图片1
+   完整路径：C:\Users\Administrator\dinian\images\news\news-1.jpg
+
+2. news-2.jpg      - 新闻图片2
+   完整路径：C:\Users\Administrator\dinian\images\news\news-2.jpg
+
+3. news-3.jpg      - 新闻图片3
+   完整路径：C:\Users\Administrator\dinian\images\news\news-3.jpg
+
+
+================================================================
+【六、关于我们页面图片（可选）- 1张】
+================================================================
+
+路径：C:\Users\Administrator\dinian\images\about\
+
+1. company.jpg     - 公司/品牌图片
+   完整路径：C:\Users\Administrator\dinian\images\about\company.jpg
+
+
+================================================================
+【七、联系我们页面图片（可选）- 可根据需要添加】
+================================================================
+
+路径：C:\Users\Administrator\dinian\images\contact\  (需要创建此文件夹)
+
+说明：目前联系我们页面没有设置图片，如果需要添加以下图片：
+
+1. contact-bg.jpg  - 联系我们页面背景图（可选）
+   完整路径：C:\Users\Administrator\dinian\images\contact\contact-bg.jpg
+
+2. location.jpg    - 公司位置/地图图片（可选）
+   完整路径：C:\Users\Administrator\dinian\images\contact\location.jpg
+
+3. office.jpg      - 办公室/店面照片（可选）
+   完整路径：C:\Users\Administrator\dinian\images\contact\office.jpg
+
+
+================================================================
+【八、联系我们页面左侧图片（您提到的"旁边的照片"）】
+================================================================
+
+说明：根据代码结构，联系我们页面左侧是联系信息，右侧是表单。
+如果需要添加左侧的装饰图片或公司形象图片，可以：
+
+选项1：在公司信息左侧添加图片
+- 需要修改HTML代码添加图片显示区域
+- 建议文件名：contact-company.jpg
+- 建议路径：C:\Users\Administrator\dinian\images\contact\contact-company.jpg
+
+选项2：在联系信息区域添加背景图
+- 可以设置为联系信息区域的背景
+- 建议文件名：contact-info-bg.jpg
+- 建议路径：C:\Users\Administrator\dinian\images\contact\contact-info-bg.jpg
+
+
+================================================================
+【统计汇总】
+================================================================
+
+必需图片：41张
+- Logo: 1张
+- 首页产品: 8张
+- 产品详情页: 32张（每个系列4张）
+
+可选图片：7-10张
+- 轮播图背景: 3张（可选）
+- 新闻动态: 3张（可选）
+- 关于我们: 1张（可选）
+- 联系我们: 0-3张（可选，需要添加）
+
+总计：48-51张图片
+
+
+================================================================
+【图片要求说明】
+================================================================
+
+1. 格式支持：JPG、PNG
+2. 尺寸要求：
+   - Logo：长条型（建议 200×50px 或等比例）
+   - 产品图片：支持各种比例
+     * 长条型（横向）
+     * 9:16格式（竖向）
+     * 1024×1024（正方形）
+     * 其他比例也可以
+   - 图片会自动适配显示
+
+3. 文件名必须完全匹配（区分大小写）
+4. 如果图片不存在，网站会显示占位符，不影响使用
+
+
+================================================================
+【文件夹结构】
+================================================================
+
+C:\Users\Administrator\dinian\
+└── images\
+    ├── logo.png                    ← Logo（必需）
+    ├── products\                   ← 产品图片文件夹
+    │   ├── amino.jpg              ← 首页氨基酸
+    │   ├── herbal.jpg             ← 首页草本
+    │   ├── styling.jpg            ← 首页造型
+    │   ├── tools.jpg              ← 首页工具
+    │   ├── antiseptic.jpg         ← 首页抑菌膏
+    │   ├── perm.jpg               ← 首页烫发
+    │   ├── dye.jpg                ← 首页染发
+    │   ├── custom.jpg             ← 首页定制
+    │   ├── amino-1.jpg 到 amino-4.jpg        ← 氨基酸系列4张
+    │   ├── herbal-1.jpg 到 herbal-4.jpg      ← 植物系列4张
+    │   ├── oil.jpg, elastic.jpg, mask.jpg, styling-4.jpg  ← 造型系列4张
+    │   ├── perm-1.jpg 到 perm-4.jpg          ← 烫发系列4张
+    │   ├── tools-1.jpg 到 tools-4.jpg        ← 工具系列4张
+    │   ├── antiseptic-1.jpg 到 antiseptic-4.jpg  ← 抑菌膏系列4张
+    │   ├── dye-1.jpg 到 dye-4.jpg            ← 染发系列4张
+    │   └── custom-1.jpg 到 custom-4.jpg      ← 定制系列4张
+    ├── news\                      ← 新闻图片文件夹（可选）
+    │   ├── news-1.jpg
+    │   ├── news-2.jpg
+    │   └── news-3.jpg
+    ├── about\                     ← 关于我们图片文件夹（可选）
+    │   └── company.jpg
+    └── contact\                   ← 联系我们图片文件夹（可选，需要创建）
+        ├── contact-company.jpg    ← 公司形象图片（可选）
+        ├── location.jpg           ← 位置/地图图片（可选）
+        └── office.jpg             ← 办公室照片（可选）
+
+
+================================================================
+【快速检查清单】
+================================================================
+
+□ Logo图片已放入 images/ 文件夹
+□ 8张首页产品图片已放入 images/products/ 文件夹
+□ 32张产品详情页图片已放入 images/products/ 文件夹
+  □ 氨基酸系列4张（amino-1.jpg 到 amino-4.jpg）
+  □ 植物系列4张（herbal-1.jpg 到 herbal-4.jpg）
+  □ 造型系列4张（oil.jpg, elastic.jpg, mask.jpg, styling-4.jpg）
+  □ 烫发系列4张（perm-1.jpg 到 perm-4.jpg）
+  □ 工具系列4张（tools-1.jpg 到 tools-4.jpg）
+  □ 抑菌膏系列4张（antiseptic-1.jpg 到 antiseptic-4.jpg）
+  □ 染发系列4张（dye-1.jpg 到 dye-4.jpg）
+  □ 定制系列4张（custom-1.jpg 到 custom-4.jpg）
+□ 可选图片根据需要添加
+
+
+================================================================
+【重要提示】
+================================================================
+
+1. 所有必需图片共41张，最优先添加这些
+2. 文件名必须完全匹配，包括扩展名（.jpg 或 .png）
+3. 图片尺寸不一致没关系，网站会自动适配
+4. 没有的图片会显示占位符，不影响网站运行
+5. 如果需要修改联系我们页面添加图片，请告诉我，我可以帮您修改代码
+
+================================================================
